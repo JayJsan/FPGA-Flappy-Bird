@@ -1,4 +1,4 @@
-# COMPSYS 305 Mini Project - Flappy Bird
+# Flappy Bird - FPGA - VHDL
 
 > This was a University mini project based around making a modified version of flappy bird to run on a Cyclone V FPGA DE0-CV board.
 
